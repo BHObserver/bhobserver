@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://wa.me/+8801518652651" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
 </p>
 
-<p align="center"> <img src="./coding.gif" alt="A guy coding"</img> </p>
+<p align="center"> <img src="./coding.gif" width="600" alt="A guy coding"</img> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Burhan&label=Views&color=blue&style=plastic" alt="Burhan" /></p>
 <!-- Software Developer
