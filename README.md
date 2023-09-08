@@ -81,16 +81,16 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Burhan"><img src="https://github-readme-stats.vercel.app/api?username=Burhan&show_icons=true&count_private=true&theme=merko&title_color=e25822&icon_color=e25822&ring_color=0891b2&hide_border=true" alt="Salim's GitHub stats" /></a>
+<a href="http://www.github.com/bhobserver"><img src="https://github-readme-stats.vercel.app/api?username=bhobserver&show_icons=true&count_private=true&theme=merko&title_color=e25822&icon_color=e25822&ring_color=0891b2&hide_border=true" alt="Burhan's GitHub stats" /></a>
 <!--  &count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917-->
-<a href="http://www.github.com/Burhan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Burhan&theme=merko&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" /></a>
+<a href="http://www.github.com/bhobserver"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhobserver&theme=merko&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" /></a>
 <!--  stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Burhan&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="Burhan" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhobserver&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="Burhan" />
 
 ### Badges
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Burhan)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhobserver)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">To be continued...</h3>
 <p align="center">======================</p>
