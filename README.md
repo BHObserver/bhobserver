@@ -91,7 +91,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 ### Badges
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhobserver)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![](https://visitcount.itsvg.in/api?id=bhobserver&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <h3 align="center">To be continued...</h3>
 <p align="center">======================</p>
 <p align="center"><img src='https://github.com/amon-cofie/amon-cofie/blob/main/handshake.gif' width="100px"></p>
