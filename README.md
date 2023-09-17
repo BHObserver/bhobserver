@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-====================================================================================================================================== -->
+<!-- ====================================================================================================================================== -->
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Burhan</h1>
   
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="./coding.gif" width="600" alt="A guy coding"</img> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Burhan&label=Views&color=blue&style=plastic" alt="Burhan" /></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Burhan&label=Views&color=blue&style=plastic" alt="Burhan" /></p> -->
 <!-- Software Developer
 --------------------- -->
 
