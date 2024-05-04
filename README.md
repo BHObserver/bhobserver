@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/bhobserver/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Burhan" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/bhobserver0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@bhobserver0" height="30" width="40" /></a> -->
 <a href="https://twitter.com/BurhanU14173360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moyasi_ginko" height="30" width="40" /></a>
-<a href = "mailto: bhobserver0@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href = "mailto: burhans.dev0@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <a href="https://wa.me/+8801518652651" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
 </p>
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 --------------------- -->
 
 <!--
-I am a continuous improvement fullstack developer.<br/> 
+I am a continuous improvement full-stack developer.<br/> 
 I would like to build technology to improve people's lives.<br/> 
 I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
 -->
