@@ -45,7 +45,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 - 🌍  I am currently based in Cox's Bazar, Bangladesh, but I am eager to work in other parts of the world. 😉
 - 🌟 💻 I am a JavaScript magician ✨ and I thrive on unraveling intricate coding conundrums!" 🚀 Whether it's diving deep into React's enchanting components or scripting spellbinding solutions with JavaScript, I find sheer joy in the art of programming sorcery. 🎩✨
 - 🤝  I am looking to collaborate with people around the world on different projects.
-- ✉️  You can reach me at [bhobserver0@gmail.com](mailto:bhobserver0@gmail.com)
+- ✉️  You can reach me at [burhans.dev@gmail.com](mailto:burhans.dev@gmail.com)
 
 <!-- ### Socials
 
